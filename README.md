@@ -37,11 +37,11 @@
 
 # _Links_ 
 
-1. https://tecnoblog.net/311761/o-que-e-hardware/
+1. <https://tecnoblog.net/311761/o-que-e-hardware/>
 
-2. https://vinyanalista.github.io/blog/2012/04/09/componentes-de-um-computador-hardware-e-software/#.X2lN02hKhPY
+2. <https://vinyanalista.github.io/blog/2012/04/09/componentes-de-um-computador-hardware-e-software/#.X2lN02hKhPY>
 
-3. https://www.tecmundo.com.br/hardware/1718-hardware-o-dicionario-de-a-a-z.htm
+3. <https://www.tecmundo.com.br/hardware/1718-hardware-o-dicionario-de-a-a-z.htm>
 
 
 
