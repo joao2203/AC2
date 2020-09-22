@@ -8,15 +8,11 @@
 
 * Em geral, o termo “hardware” é usado para se referir aos componentes internos de um computador, celular, tablet e outros dispositivos. Eles precisam de softwares para serem operados, mas são elementos distintos.
 
+# _Tabela_
+
  | Pricipais Peças do Hardware | 
  |-----------------------------|
  |        Processador          |
  |         Placa-Mãe           | 
  |          Memória            |
  | Dispositivos Entrada/Saída  |
-
-
-# _Links_ 
-
-https://tecnoblog.net/311761/o-que-e-hardware/
-https://vinyanalista.github.io/blog/2012/04/09/componentes-de-um-computador-hardware-e-software/#.X2lN02hKhPY
