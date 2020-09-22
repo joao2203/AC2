@@ -16,3 +16,16 @@
  |         Placa-Mãe           | 
  |          Memória            |
  | Dispositivos Entrada/Saída  |
+
+# _Imagens_
+
+
+
+
+
+# _Links_ 
+
+1. https://tecnoblog.net/311761/o-que-e-hardware/
+
+2. https://vinyanalista.github.io/blog/2012/04/09/componentes-de-um-computador-hardware-e-software/#.X2lN02hKhPY
+
