@@ -43,5 +43,10 @@
 
 3. <https://www.tecmundo.com.br/hardware/1718-hardware-o-dicionario-de-a-a-z.htm>
 
+# _Menções_ 
+
+Professor de Devops Leonardo Bontempo
+>
+
 
 
